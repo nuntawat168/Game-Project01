@@ -63,6 +63,19 @@
      <Compile Include="Assets\SampleScenes\Scripts\ParticleSceneControls.cs" />
      <Compile Include="Assets\SampleScenes\Scripts\PlaceTargetWithMouse.cs" />
      <Compile Include="Assets\SampleScenes\Scripts\SlowMoButton.cs" />
+     <Compile Include="Assets\Underwater Effect\Scripts\Default\CharacterMotor.cs" />
+     <Compile Include="Assets\Underwater Effect\Scripts\Default\FPSInputController.cs" />
+     <Compile Include="Assets\Underwater Effect\Scripts\Default\MouseLook.cs" />
+     <Compile Include="Assets\Underwater Effect\Scripts\UnderWater.cs" />
+     <Compile Include="Assets\Underwater Effect\Scripts\UWCaustics.cs" />
+     <Compile Include="Assets\Underwater Effect\Scripts\UWClone.cs" />
+     <Compile Include="Assets\Underwater Effect\Scripts\UWEffects.cs" />
+     <None Include="Assets\Underwater Effect\Shaders\UW_2.shader" />
+     <None Include="Assets\Underwater Effect\Shaders\UW_4.shader" />
+     <None Include="Assets\Underwater Effect\Shaders\Effects.shader" />
+     <None Include="Assets\Underwater Effect\Shaders\UW_1.shader" />
+     <None Include="Assets\Underwater Effect\Shaders\UW_3.shader" />
+     <None Include="Assets\Underwater Effect\Shaders\Caustics.shader" />
      <None Include="Assets\SampleScenes\Shaders\Skybox-Procedural.shader" />
  <Reference Include="Unity.Timeline.Editor">
  <HintPath>C:/Users/USER/Documents/GitHub/Game-Project01/Game_Project2/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
